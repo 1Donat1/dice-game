@@ -3,6 +3,7 @@
 A small prediction game built with Next.js, TypeScript, and Material UI. Choose
 whether the next number will be under or over your threshold, then press Play to
 see the result.
+Live demo: [dice-game-dusky-phi.vercel.app](https://dice-game-dusky-phi.vercel.app)
 
 ## Tech stack
 
