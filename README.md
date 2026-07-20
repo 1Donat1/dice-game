@@ -12,7 +12,7 @@ Live demo: [dice-game-dusky-phi.vercel.app](https://dice-game-dusky-phi.vercel.a
 - Material UI 9 with Emotion
 - Vitest and React Testing Library
 - Playwright
-- 
+
 ## Game rules
 
 - Under wins when the result is strictly lower than the selected threshold.
